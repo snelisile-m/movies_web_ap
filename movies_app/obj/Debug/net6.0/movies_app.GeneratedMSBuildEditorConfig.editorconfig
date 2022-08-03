@@ -23,6 +23,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/snelisile/personal_projects/movies_web_ap/movies_app/Pages/movies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvbW92aWVzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/snelisile/personal_projects/movies_web_ap/movies_app/Pages/movies/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvbW92aWVzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/snelisile/personal_projects/movies_web_ap/movies_app/Pages/movies/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvbW92aWVzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/snelisile/personal_projects/movies_web_ap/movies_app/Pages/movies/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvbW92aWVzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/snelisile/personal_projects/movies_web_ap/movies_app/Pages/movies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvbW92aWVzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/snelisile/personal_projects/movies_web_ap/movies_app/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
